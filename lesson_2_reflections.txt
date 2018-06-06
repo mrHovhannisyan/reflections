@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+		- git init
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+		- working directory(WD) is our HDD
+		- staging area(SA) is between WD and repository
+		- after git add <file>, file is putted to SA
+		- after git commit from SA to repo		
