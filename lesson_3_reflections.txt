@@ -6,4 +6,13 @@ Why might you want to always pull changes manually rather than having Git automa
 
 		- 
 
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+		- for clone use command git clone URL: make a copy of an entiry Git repository
+			onto your own computer
+		- fork is same as clone or copy, but on GitHub: doing fork you actually copy
+			some GitHub repo to your GitHub repo
+		- creating branch you can have a copy of master branch, and your changes on it
+			will not make nay changes on master's project						
 				
